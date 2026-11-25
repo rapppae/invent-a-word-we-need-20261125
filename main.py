@@ -1,6 +1,6 @@
 """Entry for make.fun bounty: Invent a Word We Need
 Slug: u-deranalabs-invent-a-word-we-need-17a020e0
-Entry text (99 characters total (word + definition), gate max 140). Written to /output/entry.txt with no trailing newline.
+Entry text (79 characters total (word + definition), gate max 140). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
