@@ -4,7 +4,7 @@ Entry text (99 characters total (word + definition), gate max 140). Written to /
 """
 import os
 
-ENTRY = """Snarknap (n.): the half-second pause before you reply to a text you have already decided to regret."""
+ENTRY = """Snarknap (n.): the half-second pause before you send a text you already regret."""
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

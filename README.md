@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 
-> Snarknap (n.): the half-second pause before you reply to a text you have already decided to regret.
+> Snarknap (n.): the half-second pause before you send a text you already regret.
 
 ## Run
 
